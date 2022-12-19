@@ -1,0 +1,8 @@
+.idea/
+.env/
+.cache/
+__pycache__/
+nld_server/server_config.py
+nld_face_recognition/dataset
+nld_face_recognition/eval_result
+nld_face_recognition/input_img
