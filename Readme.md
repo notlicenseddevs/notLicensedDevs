@@ -1,4 +1,4 @@
-server program for implement the project "Project Tailor", December 2022, at sogang university.
+server program to implement the project "Project Tailor", December 2022, at sogang university.
 Specify driver on Database using opensource named "deepface"
 then synchronize required data from Center-Fascia application and User application.
 
